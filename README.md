@@ -14,3 +14,5 @@ It assumes the following:
 - Wifi is set up properly
 
 Also, it's a first experience with Android Studio, combined with GitHub! I will have to check if there are useless files committed now that I should remove.
+
+Java code is here: https://github.com/coostendorp/android-connectionhelper/tree/master/app/src/main/java/co/sparca/connsettings
