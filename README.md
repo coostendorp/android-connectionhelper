@@ -8,4 +8,9 @@ Options now:
 - Wifi (just internet through wifi)
 - Wifi or Internet (Both are enabled, if a known Wifi accesspoint is in range, it is used)
 
+It assumes the following:
+- Wifi AP (hotspot) settings are already set up properly
+- Mobile Internet is set up properly
+- Wifi is set up properly
+
 Also, it's a first experience with Android Studio, combined with GitHub! I will have to check if there are useless files committed now that I should remove.
