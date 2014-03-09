@@ -7,3 +7,5 @@ Options now:
 - Internet + Hotspot (Mobile internet plus wifi hotspot to share it)
 - Wifi (just internet through wifi)
 - Wifi or Internet (Both are enabled, if a known Wifi accesspoint is in range, it is used)
+
+Also, it's a first experience with Android Studio, combined with GitHub! I will have to check if there are useless files committed now that I should remove.
